@@ -1,6 +1,6 @@
 import React from "react";
 
-const Appliances = () => {
+export const Appliances = () => {
   const Appliances = [
     [
       {
@@ -87,4 +87,3 @@ const Appliances = () => {
   );
 };
 
-export default Appliances;

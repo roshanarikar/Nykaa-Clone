@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const Makeup = () => {
+export const Makeup = () => {
   const Makeup = [
     [
       {
@@ -139,4 +139,3 @@ const Makeup = () => {
   );
 };
 
-export default Makeup;
