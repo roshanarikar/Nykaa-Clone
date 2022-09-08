@@ -1,6 +1,6 @@
 import React from "react";
 
-const Hair = () => {
+export const Hair = () => {
   const Hair = [
     [
       {
@@ -101,5 +101,3 @@ const Hair = () => {
     </>
   );
 };
-
-export default Hair;

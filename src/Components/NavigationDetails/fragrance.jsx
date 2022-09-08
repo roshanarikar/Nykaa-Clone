@@ -1,6 +1,6 @@
 import React from "react";
 
-const Fragrance = () => {
+export const Fragrance = () => {
   const Fragrance = [
     [
       {
@@ -110,4 +110,3 @@ const Fragrance = () => {
   );
 };
 
-export default Fragrance;

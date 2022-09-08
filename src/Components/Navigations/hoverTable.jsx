@@ -1,16 +1,5 @@
 import React from "react";
-import { Makeup } from "../NavigationDetails/makeup";
-import Appliances from "./NavigationDetails/appliances";
-import Fragrance from "./NavigationDetails/fragrance";
-import Hair from "./NavigationDetails/hair";
-import HealthAndWellness from "./NavigationDetails/healthAndWellness";
-import Luxe from "./NavigationDetails/luxe";
 
-import Men from "./NavigationDetails/men";
-import MomAndBaby from "./NavigationDetails/momAndBaby";
-import Natural from "./NavigationDetails/natural";
-import PersonalCare from "./NavigationDetails/personalCare";
-import Skin from "./NavigationDetails/skin";
 
 const HoverTable = ({ value }) => {
   return (

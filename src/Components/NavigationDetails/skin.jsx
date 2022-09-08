@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-const Skin = () => {
+export const Skin = () => {
   const Skin = [
     [
       {
@@ -142,5 +142,3 @@ const Skin = () => {
     </>
   );
 };
-
-export default Skin;

@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const HealthAndWellness = () => {
+export const HealthAndWellness = () => {
   const HealthAndWellness = [
     [
       {
@@ -127,5 +127,3 @@ const HealthAndWellness = () => {
     </>
   );
 };
-
-export default HealthAndWellness;

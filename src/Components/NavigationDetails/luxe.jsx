@@ -1,6 +1,6 @@
 import React from "react";
 
-const Luxe = () => {
+export const Luxe = () => {
   const LUXE = [
     [
       {
@@ -115,4 +115,3 @@ const Luxe = () => {
   );
 };
 
-export default Luxe;

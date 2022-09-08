@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MomAndBaby = () => {
+export const MomAndBaby = () => {
 
     const MomAndBaby = [
       [
@@ -107,5 +107,3 @@ const MomAndBaby = () => {
     </>
   );
 }
-
-export default MomAndBaby

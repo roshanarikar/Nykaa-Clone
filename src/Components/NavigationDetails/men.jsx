@@ -1,6 +1,6 @@
 import React from "react";
 
-const Men = () => {
+export const Men = () => {
   const Men = [
     [
       {
@@ -125,5 +125,3 @@ const Men = () => {
     </>
   );
 };
-
-export default Men;

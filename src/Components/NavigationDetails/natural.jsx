@@ -1,6 +1,6 @@
 import React from "react";
 
-const Natural = () => {
+export const Natural = () => {
   const Natural = [
     [
       {
@@ -155,4 +155,3 @@ const Natural = () => {
   );
 };
 
-export default Natural;

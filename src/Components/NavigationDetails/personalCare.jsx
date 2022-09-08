@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const PersonalCare = () => {
+export const PersonalCare = () => {
   const PersonalCare = [
     [
       {
@@ -139,5 +139,3 @@ const PersonalCare = () => {
     </>
   );
 };
-
-export default PersonalCare;
