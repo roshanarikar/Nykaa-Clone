@@ -29,16 +29,16 @@ https://nykaa-clone-2.netlify.app
 ## Tech Stack Used : -
 
 - #### Languages
-  - `jsx`
-  - `css`
+  - jsx
+  - css
 - #### Framework
-  - `Node.Js`
+  - Node.Js
 - #### Libraries
-  - `React` 
-  - `Express`
-  - `mongoose`
+  - React
+  - Express
+  - mongoose
 - #### Database
-  - `MongoDB`
+  - MongoDB
 
 All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
