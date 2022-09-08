@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-export const Skin = () => {
+export const Skin = () =>{
   const Skin = [
     [
       {
@@ -141,4 +141,4 @@ export const Skin = () => {
       })}
     </>
   );
-};
+}

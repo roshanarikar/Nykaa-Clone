@@ -1,17 +1,28 @@
 import React from "react";
+import { Appliances } from "../NavigationDetails/appliances";
+import { Fragrance } from "../NavigationDetails/fragrance";
+import { Hair } from "../NavigationDetails/hair";
+import { HealthAndWellness } from "../NavigationDetails/healthAndWellness";
+import { Luxe } from "../NavigationDetails/luxe";
+import { Makeup } from "../NavigationDetails/makeup";
+import { Men } from "../NavigationDetails/men";
+import { MomAndBaby } from "../NavigationDetails/momAndBaby";
+import { Natural } from "../NavigationDetails/natural";
+import { PersonalCare } from "../NavigationDetails/personalCare";
+import { Skin } from "../NavigationDetails/skin";
 
 
 const HoverTable = ({ value }) => {
   return (
     <div className='hover-table-container'>
       {value == "Makeup" ? (
-        <Makeup />
+        <Makeup/>
       ) : value == "Skin" ? (
-        <Skin />
+        <Skin/>
       ) : value == "Hair" ? (
         <Hair />
       ) : value == "Appliances" ? (
-        <Appliances />
+        <Appliances/>
       ) : value == "Personal Care" ? (
         <PersonalCare />
       ) : value == "Natural" ? (
