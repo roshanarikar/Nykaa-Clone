@@ -9,7 +9,7 @@ In this project we have tried to make a clone of <a href="https://nykaa.com/" ta
 Deployed with Netlify
 
 ```
-https://nykaa-clone-2.netlify.app
+https://nykaa-clonee.netlify.app/
 ```
 
 <div style='page-break-after: always'></div>
