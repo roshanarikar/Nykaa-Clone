@@ -18,11 +18,11 @@ https://nykaa-clone-2.netlify.app
 
 ### Team Members
 
-- **[Prajwal Dhoble]**
-- **[Roshan Arikar]**
-- **[Sumit Ranjan]**
-- **[Prajkta Hadole]**
-- **[Jaiprakash Gupta]**
+- **Prajwal Dhoble**
+- **Roshan Arikar**
+- **Sumit Ranjan**
+- **Prajkta Hadole**
+- **Jaiprakash Gupta**
 
 ---
 
