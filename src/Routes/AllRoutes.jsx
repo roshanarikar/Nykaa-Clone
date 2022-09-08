@@ -1,9 +1,11 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom"
 
-export const AllRoutes = () => {
-  return (
-    <div>
-      <Routes>
+
+
+export const AllRoutes = () =>{
+    return(
+        <div>
+            <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/signin" element={<SignIn />}></Route>
         <Route path="/login" element={<Login />}></Route>
@@ -15,6 +17,6 @@ export const AllRoutes = () => {
         <Route path="/checkout" element={<Checkout />}></Route>
         <Route path="/thankyou" element={<ThankYou />}></Route>
       </Routes>
-    </div>
-  );
-};
+        </div>
+    )
+}
