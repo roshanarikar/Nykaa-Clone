@@ -1,6 +1,6 @@
 # Nykaa Clone
 
-In this project we have tried to make a clone of <a href="https://nykaa.com/" target="_blank">Nykaa Website</a>. With our efforts and the technology stack,we were able to clone the front end, integrated it with backend and added similar looks and features.
+In this project we have tried to make a clone of <a href="https://nykaa-clone1.netlify.app/" target="_blank">Nykaa Website</a>. With our efforts and the technology stack,we were able to clone the front end, integrated it with backend and added similar looks and features.
 
 <div style='page-break-after: always'></div>
 
@@ -9,7 +9,7 @@ In this project we have tried to make a clone of <a href="https://nykaa.com/" ta
 Deployed with Netlify
 
 ```
-https://nykaa-clonee.netlify.app/
+https://nykaa-clone1.netlify.app/
 ```
 
 <div style='page-break-after: always'></div>
